@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+baseline.json
+integrity_log.txt
