@@ -30,8 +30,8 @@ A integridade é validada através da comparação de múltiplos vetores:
 Clone o repositório e instala as dependências (se aplicável):
 
 ```bash
-git clone [https://github.com/teu-utilizador/advanced-integrity-monitor.git](https://github.com/teu-utilizador/advanced-integrity-monitor.git)
-cd advanced-integrity-monitor
+git clone [https://github.com/ggooh/IntegrityMonitor.git](https://github.com/ggooh/IntegrityMonitor.git)
+cd integrity_monitor
 ```
 
 ### 2. Criar a Baseline Inicial
