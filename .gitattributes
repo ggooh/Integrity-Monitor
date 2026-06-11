@@ -1,5 +1,7 @@
-# Forçar o GitHub a detetar ficheiros TeX apenas como documentação
+# Ignorar as pastas de compilação/distribuição nas estatísticas do GitHub
+build/** linguist-vendor=true
+dist/** linguist-vendor=true
+
+# Manter as regras para ficheiros TeX e HTML soltos, caso existam
 *.tex linguist-documentation=true
-*.sty linguist-documentation=true
-*.cls linguist-documentation=true
-security_tools/* linguist-documentation=true
+*.html linguist-documentation=true
