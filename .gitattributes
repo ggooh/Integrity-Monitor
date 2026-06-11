@@ -1,3 +1,5 @@
-
+# Forçar o GitHub a detetar ficheiros TeX apenas como documentação
 *.tex linguist-documentation=true
-
+*.sty linguist-documentation=true
+*.cls linguist-documentation=true
+security_tools/* linguist-documentation=true
